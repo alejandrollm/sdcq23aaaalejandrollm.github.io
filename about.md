@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Boxwood are woody-ornamental shrubs that are popular because they are deer resistant, mostly evergreen.
+<p> Boxwood are woody-ornamental shrubs that are popular because they are deer resistant, mostly evergreen. </p>
 
 ### Content is Important
 <div class="box">
