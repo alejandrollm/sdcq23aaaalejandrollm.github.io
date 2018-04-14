@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Theme - The host - Massively
+title: Jekyll Theme - about - Massively
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Boxwood are woody-ornamental shrubs that are popular because they are deer resistant, mostly evergreen, low maintenance, and have relatively long life spans. Whole plants are commonly used in the landscape as hedges, specimen plants and topiary, and cuttings are sold as holiday greenery for boxwood wreaths and trees. The first boxwood plants in the United States were imported from Amsterdam and planted in Long Island, New York in 1653 (The American Boxwood Society 2016). Today, boxwood sales generate approximately $126 million in revenue annually in the United States (USDA. National Agricultural Statistics Service 2014). Whole plants sell for an average of $50.00 per square foot and cuttings used for holiday decorations are sold for between $0.30 and $0.35 per pound (Kays and Drohan 2003).
+Boxwood are woody-ornamental shrubs that are popular because they are deer resistant, mostly evergreen.
 
 ### Content is Important
 <div class="box">
