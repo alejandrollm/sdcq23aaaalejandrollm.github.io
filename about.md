@@ -13,8 +13,6 @@ sitemap:
 
 Boxwood are woody-ornamental shrubs that are popular because they are deer resistant, mostly evergreen, low maintenance, and have relatively long life spans. Whole plants are commonly used in the landscape as hedges, specimen plants and topiary, and cuttings are sold as holiday greenery for boxwood wreaths and trees. The first boxwood plants in the United States were imported from Amsterdam and planted in Long Island, New York in 1653 (The American Boxwood Society 2016). Today, boxwood sales generate approximately $126 million in revenue annually in the United States (USDA. National Agricultural Statistics Service 2014). Whole plants sell for an average of $50.00 per square foot and cuttings used for holiday decorations are sold for between $0.30 and $0.35 per pound (Kays and Drohan 2003).
 
-Boxwood are in the genus Buxus and family Buxaceae. Species from this genus can occur worldwide, but are commercially cultivated from Europe and Asia. Cultivars of the boxwood species Buxus sempervirens originated in Europe, while cultivars of Buxus harlandii, harlandii, Buxus microphylla, and Buxus sinica are Asiatic in origin (Vane Laere et al. 2011). There are 217 registered boxwood cultivars of which 148 are in commercial production (The American Boxwood Society 2016).
-
 ### Content is Important
 <div class="box">
   <p>
